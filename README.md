@@ -1,8 +1,6 @@
-- Hi, I’m @jchristopherfeng
-- I’m interested in physics, geometry, and spaceflight.
-- I’m currently learning Julia, 
-- I’m looking to collaborate on topics related to general relativity, relativistic positioning, and wormholes.
-- You may contact me at justin.feng@tecnico.ulisboa.pt
+This is my old github account. You can find the profile for my current account at:
+
+[https://github.com/justincfeng](https://github.com/justincfeng)
 
 <!---
 jchristopherfeng/jchristopherfeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
